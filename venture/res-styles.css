@@ -1,0 +1,165 @@
+@media screen and (min-width: 320px) and (max-width: 720px){
+
+  
+    .top-right {
+      position: absolute;
+      top: 366px;
+      bottom:-550px;
+      right:0px;
+      opacity: 0.8;
+      font-size: 50px;
+      font-weight: 700;
+    }
+
+
+    .banner-text{   
+      margin-top: 30px;    
+    }
+
+    .reduce {
+        margin-top: 503px;
+        
+    }
+
+    .reduce-go {
+        margin-top: 205px;
+        
+    }
+
+    .what-top{   
+        margin-top: 30px;
+       }
+
+       .card-top{   
+        margin-top: 30px;
+       }
+
+       .lft-bult {
+        margin-left: 69px;
+    }
+    .bul-lft {
+        margin-left: 20px;
+    }
+
+    .bult-img {
+        width: 60px;
+        margin-left: 20px;
+    }
+
+    .blt-help {
+        margin-left: 21px;
+        
+        font-size: 27px;
+    }
+
+    .fast1-low {       
+        font-size: 35px;        
+        top: 2051%;
+        left: -1%;        
+    }
+
+    .fast-low {
+        font-size: 27px;
+        top: 2077%;
+        left: 0%;
+    }
+
+    .fast-img {        
+        display: none;
+        }
+        .fast-img1 {        
+            display: none;
+            }
+            .fast-img2 {        
+                display: none;
+                }
+                .fast-img3 {        
+                    display: none;
+                    }
+                    .fast-img4 {        
+                        display: none;
+                        }
+                        .fast-img5 {        
+                            display: none;
+                            }
+
+    .foot-txt {
+    margin-top: 140px;   
+    font-size: 27px;
+}      
+
+.foot-txt2 {
+    margin-top: 0px;   
+    font-size: 27px;
+}      
+
+.foot-txt1 {    
+    font-size: 40px;
+}
+
+.vll {
+    display: none;
+}
+
+.vll-sec {
+    display: none;
+}
+
+     
+   
+   
+    .fast {
+        margin-left: -120px;
+        top: 673%;
+        font-size: 31px;
+    }
+
+    .fast1 {
+        top: 710.5%;
+        font-size: 28px;
+        margin-left: -168px;
+    }
+
+    .img-what {
+        width: 65%;
+        height: 260px;
+        margin-left: 48px;
+    }
+
+    .reduce-img {
+        width: 35%;
+        margin-left: 0%;
+    }
+
+    .reduce-barr {
+        width: 30%;
+        margin-left: 36%;
+    }
+
+    .reduce1 {
+        font-size: 25px;
+        margin-left: 33px;
+    }
+
+    .reduce2 {
+        font-size: 27px;
+        margin-left: 102px;
+    }
+    .reduce-img1 {
+        width: 20%;
+        margin-left: 42px;
+    }
+
+    .reduce-1 {
+        font-size: 25px;
+        margin-left: 48px;
+    }
+
+    .reduce-dis {
+        font-size: 45px;
+        font-weight: 600;
+        margin-left: 43px;
+    }
+ 
+    
+  }
